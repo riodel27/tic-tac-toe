@@ -1,3 +1,6 @@
 [submodule "web-app-tictactoe"]
 	path = web-app-tictactoe
 	url = git@github.com:riodel27/web-app-tictactoe.git
+[submodule "api-tictactoe"]
+	path = api-tictactoe
+	url = git@github.com:riodel27/api-tictactoe.git
